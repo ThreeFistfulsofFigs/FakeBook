@@ -1,0 +1,28 @@
+body {
+    background-color: #25c570;
+}
+
+p {
+  color: #1203ab;
+  font-size: 20px;
+}
+
+.profileimage {
+  border: 8px black dotted;
+  padding: 5px;
+}
+
+.profileimage:hover {
+  border: 20px red solid;
+}
+
+#search {
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+#bigtitle {
+  color: #1203ab;
+  font-weight: bold;
+}
